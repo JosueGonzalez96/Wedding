@@ -46,7 +46,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5LM-mq-PxS" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1358" y="618"/>
+            <point key="canvasLocation" x="1358" y="1335"/>
         </scene>
         <!--Item-->
         <scene sceneID="19D-31-lnP">
@@ -94,7 +94,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="loV-hc-cfe" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2109.5999999999999" y="618.44077961019491"/>
+            <point key="canvasLocation" x="1358" y="2047"/>
         </scene>
         <!--Item-->
         <scene sceneID="duq-4h-39o">
@@ -110,7 +110,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="HmJ-v0-8Ns" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="2110" y="-56"/>
+            <point key="canvasLocation" x="1358" y="618"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="Z4N-wM-HcI">
@@ -208,10 +208,10 @@
             </objects>
             <point key="canvasLocation" x="1357.5999999999999" y="-56.221889055472268"/>
         </scene>
-        <!--Tab Bar Controller-->
+        <!--General Tab BarVC-->
         <scene sceneID="Te8-cf-gPv">
             <objects>
-                <tabBarController id="FNr-nq-Ros" sceneMemberID="viewController">
+                <tabBarController id="FNr-nq-Ros" customClass="GeneralTabBarVC" customModule="Wedding" customModuleProvider="target" sceneMemberID="viewController">
                     <navigationItem key="navigationItem" id="2Zm-eD-cHq"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" id="xJP-sR-Aay">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="49"/>

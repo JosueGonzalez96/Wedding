@@ -21,6 +21,7 @@
 		6006391B1F9C8A0400F892A3 /* dummy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 6006391A1F9C8A0400F892A3 /* dummy.jpg */; };
 		6006391F1F9C955F00F892A3 /* Pin_chilaquil.png in Resources */ = {isa = PBXBuildFile; fileRef = 6006391E1F9C955F00F892A3 /* Pin_chilaquil.png */; };
 		600639221F9CA23A00F892A3 /* UIStrokeAnimatedLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600639211F9CA23A00F892A3 /* UIStrokeAnimatedLabel.swift */; };
+		600639241F9D399300F892A3 /* GeneralSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 600639231F9D399200F892A3 /* GeneralSettings.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -62,6 +63,7 @@
 		6006391D1F9C8E5800F892A3 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		6006391E1F9C955F00F892A3 /* Pin_chilaquil.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Pin_chilaquil.png; sourceTree = "<group>"; };
 		600639211F9CA23A00F892A3 /* UIStrokeAnimatedLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UIStrokeAnimatedLabel.swift; sourceTree = "<group>"; };
+		600639231F9D399200F892A3 /* GeneralSettings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GeneralSettings.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -207,6 +209,7 @@
 		600639201F9CA23A00F892A3 /* GeneralCode */ = {
 			isa = PBXGroup;
 			children = (
+				600639231F9D399200F892A3 /* GeneralSettings.swift */,
 				600639211F9CA23A00F892A3 /* UIStrokeAnimatedLabel.swift */,
 			);
 			path = GeneralCode;
@@ -355,6 +358,7 @@
 				600639191F9C7E9500F892A3 /* LocationViewController.swift in Sources */,
 				6006390F1F9C757D00F892A3 /* MomentsVC.swift in Sources */,
 				600639121F9C796800F892A3 /* MomentsTableViewCell.swift in Sources */,
+				600639241F9D399300F892A3 /* GeneralSettings.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
